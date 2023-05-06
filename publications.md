@@ -7,7 +7,6 @@ description: Anagh's publications
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#book">Books</a></li>
             <li><a href="#journal">Publications</a></li>
             <li><a href="#submitted">Submitted</a></li>
             <li><a href="#progress">In progress</a></li>
