@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Teaching
-description: Soudeep Deb's teaching
+description: Anagh Chattopadhyay's teaching
 ---
 
-<div class="navbar">
+Page in Progress
+
+<!-- <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#iimb">IIMB</a></li>
@@ -47,4 +49,4 @@ In addition, I also worked as a teaching assistant for the following courses at 
 * Autumn 2015: Applied Linear Statistical Methods, Instructor: [Zheng Tracy Ke](http://galton.uchicago.edu/faculty/ke.shtml).
 * Autumn 2014: Statistical Theory and Methods 1, Instructor: [Michael L. Stein](http://galton.uchicago.edu/faculty/stein.shtml).
 * Spring 2014: Statistical Theory and Methods 2, Instructor: [Wei Biao Wu](http://www.stat.uchicago.edu/faculty/wu.shtml).
-* Winter 2014: Statistical Theory and Methods 1, Instructor: [Michael L. Stein](http://galton.uchicago.edu/faculty/stein.shtml).
+* Winter 2014: Statistical Theory and Methods 1, Instructor: [Michael L. Stein](http://galton.uchicago.edu/faculty/stein.shtml). -->
