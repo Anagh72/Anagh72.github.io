@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-description: Soudeep's research
+description: Anagh's research
 ---
 
 <!-- <div class="navbar">
