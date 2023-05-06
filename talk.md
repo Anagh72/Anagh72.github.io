@@ -4,14 +4,14 @@ title: Talk
 description: Anagh Chattopadhyay's talks
 ---
 
-<div class="navbar">
+<!-- <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
       <!--       <li><a href="#upcoming">Upcoming</a></li> --> 
             <li><a href="#previous">Previous talks</a></li>
         </ul>
     </div>
-</div>
+</div> -->
 
 ### <a name="upcoming"></a>Upcoming talks 
 
