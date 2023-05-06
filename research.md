@@ -16,13 +16,13 @@ description: Soudeep's research
 
 ### Overview: 
 
-Primarily, I work on different aspects of time series and spatial data. Often, the theory and methods I work on are inspired from real life problems from different disciplines, ranging from climate to public health to finance to social sciences. Following are broadly the topics I have been working on.
+Primarily, I work on problems related to Health. Following are broadly the fields I have been working on.
 
-- Categorical and discrete time series data
-- Spatio-temporal modeling 
-- Clustering and classification methods
-- Bayesian implementation of time series methods
-- Application of statistics in sports, especially soccer
+- Biostatistics
+- Health Economics
+- Health Policy
+- Machine Learning
+- Linguistics
 
 <!-- ### <a name="grants"></a>Grants
 
