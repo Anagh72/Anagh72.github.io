@@ -3,8 +3,8 @@ layout: page
 title: Welcome to my homepage!
 use-site-title: true
 bigimg:
-  - "Inner_Harbor.jpg" : "Inner Harbor, Baltimore MD"
-  - "" : "Kolkata, India"
+  - "download.jpg" : "JHU Bloomber School of Publich Health, Baltimore MD"
+  - "download(1).jpg" : "Indian Statistical Institute, Kolkata, India"
 
 ---
 I am currently an incoming Ph.D. Candidate at the Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. My primary research interests are Biostatistics, Health Economics, Health Policy and Machine Learning. I am also interested in the intersection of Health and Linguistics.
