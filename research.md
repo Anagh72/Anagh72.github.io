@@ -4,7 +4,7 @@ title: Research
 description: Soudeep's research
 ---
 
-<div class="navbar">
+<!-- <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#grants">Grants</a></li>
@@ -12,7 +12,7 @@ description: Soudeep's research
             <li><a href="#others">Others</a></li>
         </ul>
     </div>
-</div>
+</div> -->
 
 ### Overview: 
 
@@ -24,15 +24,15 @@ Primarily, I work on different aspects of time series and spatial data. Often, t
 - Bayesian implementation of time series methods
 - Application of statistics in sports, especially soccer
 
-### <a name="grants"></a>Grants
+<!-- ### <a name="grants"></a>Grants
 
 Details of the research grants I have received so far are listed below:
 
 - Research Seed Grant from IIM Bangalore for the project titled "New techniques to analyze categorical and discrete time series data". The amount is INR 300,000 for two years (August 2021 to December 2023).
-- Young Faculty Research Grant from IIM Bangalore. The amount is INR 900,000 for three years (March 2020 to February 2023).
+- Young Faculty Research Grant from IIM Bangalore. The amount is INR 900,000 for three years (March 2020 to February 2023). -->
 
 
-### <a name="students"></a>Doctoral Students
+<!-- ### <a name="students"></a>Doctoral Students
 
 Following students have successfully completed their PhD under my supervision.
 
@@ -66,3 +66,4 @@ Below is a list of students who have worked (or have been working) as research a
 - Jyotishka Ray Choudhury: Currently M.Stat first year student, Indian Statistical Institute Kolkata.
 - [Siddhant Nahata](https://www.linkedin.com/in/siddhant-nahata-029870175/): As of 2023, working as Business Analyst at McKinsey & Co. 
 - [Divya Chakarwarti](https://www.linkedin.com/in/divya-chakarwarti/): As of 2023, working as Software Engineer at Google.
+ -->
