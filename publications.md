@@ -4,7 +4,7 @@ title: Publications
 description: Anagh's publications
 ---
 
-<div class="navbar">
+<!-- <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#journal">Publications</a></li>
@@ -12,7 +12,7 @@ description: Anagh's publications
             <li><a href="#progress">In progress</a></li>
         </ul>
     </div>
-</div>
+</div> -->
 
 ### <a name="journal"></a>Journal and conference publications
 
