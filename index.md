@@ -3,7 +3,7 @@ layout: page
 title: Welcome to my homepage!
 use-site-title: true
 bigimg:
-  - "download.jpg" : "JHU Bloomber School of Publich Health, Baltimore MD"
+  - "download.jpg" : "JHU Bloomberg School of Public Health, Baltimore MD"
   - "download(1).jpg" : "Indian Statistical Institute, Kolkata, India"
 
 ---
