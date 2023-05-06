@@ -23,8 +23,12 @@ navbar-links:
   About Me: "about"
   Research: "research"
   Publications: "publications"
-  Teaching: "teach"
-  Talks: "talk"
+  posts: "posts"
+  Language Health Group: "https://sites.google.com/view/language-health-wg/home"
+  Resources :
+    - Teaching: "teach"
+    - Contact: "contact"
+    - Talks: "talk"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
