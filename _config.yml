@@ -20,8 +20,11 @@ author: Anagh Chattopadhyay
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Research: "Research"
+  About Me: "about"
+  Research: "research"
+  Publications: "publications"
+  Teaching: "teach"
+  Talks: "talk"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
