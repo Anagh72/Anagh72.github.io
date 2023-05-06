@@ -2,10 +2,10 @@
 layout: page
 title: Welcome to my homepage!
 use-site-title: true
-<!-- bigimg:
+bigimg:
   - "img/Inner_Harbor.jpg" : "Inner Harbor, Baltimore MD"
   - "img/Ithaca.jpg" : "Ithaca NY"
-  - "img/Golden_Gate_Bridge.jpg" : "Golden Gate Bridge, San Francisco CA" -->
+  - "img/Golden_Gate_Bridge.jpg" : "Golden Gate Bridge, San Francisco CA"
 
 ---
 I am currently an incoming Ph.D. Candidate at the Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. My primary research interests are Biostatistics, Health Economics, Health Policy and Machine Learning. I am also interested in the intersection of Health and Linguistics.
