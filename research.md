@@ -22,7 +22,7 @@ Primarily, I work on problems related to Health. Following are broadly the field
 - Health Economics
 - Health Policy
 - Machine Learning
-- Linguistics
+- Applications of NLP and Linguistics in Health
 
 <!-- ### <a name="grants"></a>Grants
 
