@@ -20,9 +20,10 @@ Primarily, I work on problems related to Health. Following are broadly the field
 
 - Biostatistics
 - Health Economics
-- Health Policy
+- Causal Inference and Health Policy
 - Machine Learning
 - Applications of NLP and Linguistics in Health
+- Applications of Game Theory in Health
 
 <!-- ### <a name="grants"></a>Grants
 
