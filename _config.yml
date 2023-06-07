@@ -152,6 +152,8 @@ footer-hover-col: "#0085A1"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
+google_site_verification:  <meta name="google-site-verification" content="oAwkIlhb5W-PwT0kRHK0xYKlRKSwKIxqVQp6DFP3lnk" /># your google-site-verification ID (Google Search Console) 
+
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
 
