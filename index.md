@@ -12,7 +12,8 @@ Click [About Me](/about) for more details.
 
  Reach me at achatto4 [at] jh [dot] edu, or check [Contact](/contact) for further information.  
  
- I am always eager to collaborate on new research projects, exchange ideas and broaden my horizons. If you’re interested in working together, please reach out via email!
+ 
+I am constantly enthusiastic about joining forces on fresh research projects, exchanging ideas, and expanding my perspectives. If you're interested in collaborating, feel free to get in touch with me via email!
 
 ---
 <!--
