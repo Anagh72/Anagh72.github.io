@@ -2,10 +2,10 @@
 layout: post
 title: Game theory and Cancer
 subtitle: An understudied combination
-<!-- cover-img: /assets/img/path.jpg
+cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test] -->
+tags: [Game Theory, Cancer]
 ---
 
 Game theory is a branch of mathematics that studies strategic decision-making in situations where the outcome of one participant's choices depends on the choices of others. It provides a framework to analyze and understand the behavior of individuals or entities in competitive or cooperative situations. Game theory has been widely applied in various fields, including economics, political science, biology, and computer science.
