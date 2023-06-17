@@ -29,9 +29,9 @@ I am constantly enthusiastic about joining forces on fresh research projects, ex
 <ul>
 <h4> Recent News </h4>
 <font size="3">
-<li> [03/2020] I am going to present my <a href="https://www.enar.org/meetings/spring2020/program/preliminary-scientific-program.pdf"> work </a> (contributed paper) at Virtual ENAR 2020. </li>
-<li> [09/2019] I am going to host the <a href= "/resources/compclub" > computing club </a> in academic year 2019-2020. </li>
-<li> [07/2019] I am going to present my <a href= "https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/ActivityDetails.cfm?SessionID=218583" > work </a> (contributed paper) at JSM 2019, Denver, Colorado. </li>
+<li> [06/2023] I am joining the Bloomberg School of Public Health at Johns Hopkins as a PhD student starting from August 2023 </li>
+<!-- <li> [09/2019] I am going to host the <a href= "/resources/compclub" > computing club </a> in academic year 2019-2020. </li>
+<li> [07/2019] I am going to present my <a href= "https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/ActivityDetails.cfm?SessionID=218583" > work </a> (contributed paper) at JSM 2019, Denver, Colorado. </li> -->
 </font>
 </ul>
 </div>
