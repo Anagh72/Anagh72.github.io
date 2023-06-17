@@ -57,11 +57,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "anagh72@gmail.com"
+  email: "achatto4@jh.edu"
   #rss: true   remove this line if you don't want to show an RSS link at the bottom
-  facebook: anagh.chattopadhyay.3
+  # facebook: anagh.chattopadhyay.3
   github: anaghchattopadhyay
-  #twitter: daattali
+  twitter: anaghchattopad2
   #patreon: DeanAttali
   #youtube: c/daattali
 #  medium: yourname
