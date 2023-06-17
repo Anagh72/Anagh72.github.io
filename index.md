@@ -25,7 +25,7 @@ I am constantly enthusiastic about joining forces on fresh research projects, ex
 -->
 
 ---
-<!-- <div style="float: left; width: 50%;">
+<div style="float: left; width: 50%;">
 <ul>
 <h4> Recent News </h4>
 <font size="3">
@@ -37,6 +37,6 @@ I am constantly enthusiastic about joining forces on fresh research projects, ex
 </div>
 <div style="float: left; width: 50%;">
 <ul>
-<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/stephlee51?ref_src=twsrc%5Etfw">Tweets by stephlee51</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/anaghchattopad2?ref_src=twsrc%5Etfw">Tweets by anaghchattopad2</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </ul>
-</div> -->
+</div>
