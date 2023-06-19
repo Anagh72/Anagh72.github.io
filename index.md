@@ -43,3 +43,6 @@ I am constantly enthusiastic about joining forces on fresh research projects, ex
 <a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/anaghchattopad2?ref_src=twsrc%5Etfw">Tweets by anaghchattopad2</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </ul>
 </div>
+
+<a title="Google Analytics Alternative" href="https://clicky.com/101414794"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101414794" src="//static.getclicky.com/js"></script>
