@@ -7,6 +7,17 @@ bigimg:
   - "download(1).jpg" : "Indian Statistical Institute, Kolkata, India"
 
 ---
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LCCLMBYERJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LCCLMBYERJ');
+</script>
+
 I am an incoming Ph.D. Candidate at the Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. My primary research interests are Biostatistics, Health Economics, Health Policy and Machine Learning. I am also interested in the intersection of Health and Linguistics.
 Click [About Me](/about) for more details.
 
