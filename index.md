@@ -28,7 +28,6 @@ I am constantly enthusiastic about joining forces on fresh research projects, ex
 -->
 
 ---
-<div style="float: left; width: 50%;">
 <ul>
 <h4> Recent News </h4>
 <font size="3">
@@ -37,12 +36,20 @@ I am constantly enthusiastic about joining forces on fresh research projects, ex
 <li> [07/2019] I am going to present my <a href= "https://ww2.amstat.org/meetings/jsm/2019/onlineprogram/ActivityDetails.cfm?SessionID=218583" > work </a> (contributed paper) at JSM 2019, Denver, Colorado. </li> -->
 </font>
 </ul>
+
+
+---
+<div style="float: left; width: 50%;">
+<ul>
+<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/healthprobes?ref_src=twsrc%5Etfw">Tweets by healthprobes</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</ul>
 </div>
 <div style="float: left; width: 50%;">
 <ul>
 <a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/anaghchattopad2?ref_src=twsrc%5Etfw">Tweets by anaghchattopad2</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </ul>
 </div>
+
 
 <a title="Google Analytics Alternative" href="https://clicky.com/101414794"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
 <script async data-id="101414794" src="//static.getclicky.com/js"></script>
