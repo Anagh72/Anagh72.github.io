@@ -62,7 +62,7 @@ social-network-links:
   # facebook: anagh.chattopadhyay.3
   github: anaghchattopadhyay
   twitter: anaghchattopad2
-  twitter: healthprobes
+  # twitter: healthprobes
   #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
@@ -102,7 +102,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://anagh72.github.io/"
+url-pretty: "https://anaghchattopadhyay.github.io/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
