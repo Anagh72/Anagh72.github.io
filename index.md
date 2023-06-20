@@ -5,7 +5,6 @@ use-site-title: true
 bigimg:
   - "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzC6Sy6c16-YaHZ5l6KQaDF7P19nmVt4t3-1umtN-adBI6wPzT6Dx6lrU6bXdpF3KmAWM&usqp=CAU" : "JHU Bloomberg School of Public Health, Baltimore MD"
   - "download(1).jpg" : "Indian Statistical Institute, Kolkata, India"
-
 ---
 
 
