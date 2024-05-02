@@ -21,8 +21,9 @@ Following are my academic publications in journals and conference proceedings, a
 
 ### <a name="submitted"></a>Submitted articles
 
--  **Chattopadhyay, A.**, Deb, S. A spatio-temporal model for binary data and its application in analyzing the levels of COVID-19 spread. Under revision. Preprint available on request.
+-  **Chattopadhyay, A.**, Deb, S. A spatio-temporal model for binary data and its application in analyzing the directions of COVID-19 spread. Accepted at AStA Advances in Statistical Analysis.
 - **Chattopadhyay, A.**, Deb, S. Poster presentation at the Applied Statistics Conference 2021 (virtual).
+- **Chattopadhyay, A.**, Deb, S. A spatio-temporal model for binary data and its application in analyzing the directions of COVID-19 spread. Accepted for poster presentation at Bernoulli IMS 2024, Bochum, Germany.
 
 
 
