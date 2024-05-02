@@ -9,7 +9,7 @@ bigimg:
 
 
 
-I am an incoming Ph.D. Candidate at the Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. My primary research interests are Biostatistics, Health Economics, Health Policy and Machine Learning. I am also interested in the intersection of Health and Linguistics.
+I am a first year Ph.D. student at the Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health. My primary research interests are Causal Inference, Statistical Genetics and Machine Learning. I am also interested in the intersection of Health and Linguistics.
 Click [About Me](/about) for more details.
 
  Reach me at achatto4 [at] jh [dot] edu, or check [Contact](/contact) for further information.  
