@@ -21,6 +21,8 @@ I am constantly enthusiastic about joining forces on fresh research projects, ex
 <ul>
 <h4> Recent News </h4>
 <font size="3">
+<li> [05/2024] My paper - "Chattopadhyay, A., Deb, S. A spatio-temporal model for binary data and its application in analyzing the directions of COVID-19 spread". Accepted at AStA Advances in Statistical Analysis. </li>
+<li> I will present "Chattopadhyay, A., Deb, S. A spatio-temporal model for binary data and its application in analyzing the directions of COVID-19 spread" as a poster at Bernoulli IMS 2024, Bochum, Germany.</li>
 <li> [06/2023] I am joining the Bloomberg School of Public Health at Johns Hopkins as a PhD student starting from August 2023 </li>
 <li> [09/2023] Poster accepted at SAMGlasgow 2023 (Anagh Chattopadhyay, Soumya Sankar Ghosh, Priyankar Gangopadhyay) </li>
 <li> [09/2023] Book Chapter accepted for upcoming book "The Role of Health Literacy in Major Healthcare Crises."(Anagh Chattopadhyay, Soumya Sankar Ghosh) </li>
