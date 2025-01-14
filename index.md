@@ -41,7 +41,7 @@ I am constantly enthusiastic about joining forces on fresh research projects, ex
 </ul>
 </div>
 
-
+---
 <!-- VisitedPlaces.com code -->
 <script>
 // VisitedPlaces.com code
@@ -140,7 +140,7 @@ var visitedplaces_config = {
 <script src="https://www.visitedplaces.com/js/viewer.js"></script>
 <!-- end: VisitedPlaces.com code -->
 
-
+---
 <a title="Google Analytics Alternative" href="https://clicky.com/101414794"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
 <script async data-id="101414794" src="//static.getclicky.com/js"></script>
 
