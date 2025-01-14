@@ -28,19 +28,6 @@ I am constantly enthusiastic about joining forces on fresh research projects, ex
 </font>
 </ul>
 
-
----
-<div style="float: left; width: 50%;">
-<ul>
-<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/HealthwithAnagh?ref_src=twsrc%5Etfw">Tweets by HealthwithAnagh</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</ul>
-</div>
-<div style="float: left; width: 50%;">
-<ul>
-<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/anaghchattopad2?ref_src=twsrc%5Etfw">Tweets by anaghchattopad2</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</ul>
-</div>
-
 ---
 <!-- VisitedPlaces.com code -->
 <script>
@@ -139,6 +126,18 @@ var visitedplaces_config = {
 <script src="https://www.visitedplaces.com/js/common.js"></script>
 <script src="https://www.visitedplaces.com/js/viewer.js"></script>
 <!-- end: VisitedPlaces.com code -->
+
+---
+<div style="float: left; width: 50%;">
+<ul>
+<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/HealthwithAnagh?ref_src=twsrc%5Etfw">Tweets by HealthwithAnagh</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</ul>
+</div>
+<div style="float: left; width: 50%;">
+<ul>
+<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/anaghchattopad2?ref_src=twsrc%5Etfw">Tweets by anaghchattopad2</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</ul>
+</div>
 
 ---
 <a title="Google Analytics Alternative" href="https://clicky.com/101414794"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
